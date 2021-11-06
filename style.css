@@ -1,0 +1,46 @@
+.footer{
+    background-color:#fdcdd1 !important;
+
+}
+/*link typo alegreya*/
+nav{
+    font-family: 'Alegreya', serif;
+font-family: 'Roboto', sans-serif;
+
+}
+
+/*link typo Allura*/
+h3 ,h5 ,h1{
+    font-family: 'Alegreya', serif;
+font-family: 'Roboto', sans-serif;
+color: #d3646d;
+
+}
+.navbarphoto{
+    background: url(/photos/ph.flou1.png) no-repeat center ;
+    width: 100%;
+    height: 240px;
+    background-size: cover !important;
+    font-weight: bold;
+}
+
+.colimage {
+    background-color: #fdf3f4;
+    padding: 2rem ;
+    margin-left: 2rem;
+    margin-right: 2rem;
+
+}
+.cart{
+    width: 20px !important;
+    height: 250px;
+   
+}
+.nav-link{
+    color: rgba(0, 0, 0, 0.699);
+}
+p{
+    color: black;
+    font-family: 'Alegreya', serif;
+font-family: 'Roboto', sans-serif;
+}
