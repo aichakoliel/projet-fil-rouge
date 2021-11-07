@@ -44,3 +44,6 @@ p{
     font-family: 'Alegreya', serif;
 font-family: 'Roboto', sans-serif;
 }
+.dropdown-menu{
+    overflow: visible;
+}
