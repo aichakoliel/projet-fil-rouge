@@ -27,7 +27,7 @@ color: #d3646d;
 .colimage {
     background-color: #fdf3f4;
     padding: 2rem ;
-    margin-left: 2rem;
+    margin-left: 0rem;
     margin-right: 2rem;
 
 }
@@ -48,6 +48,9 @@ font-family: 'Roboto', sans-serif;
 }
 .dropdown-menu{
     overflow: visible;
+}
+.row{
+    margin-left: -1rem;
 }
 
 
